@@ -6,6 +6,7 @@ Hallo ich bin Rafael, 14 Jahre alt. Ich bin eine Hobbywebentwickler und liebe Co
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ArcticPenguin07)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.gg/4sdMTy5f)  
 
+### Discord @ragr#1502
 
 ## Mein aktuelles Projekt
 

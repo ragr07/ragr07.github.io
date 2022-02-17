@@ -1,6 +1,6 @@
 # Meine persönliche Website
 
-Hallo ich bin Rafael. Ich bin eine Hobbywebentwickler und liebe Code. Ich programmiere gerade mit HTML, CSS, JavaScript und ein bisschen Python. Meine anderen Hobbys sind Tischtennis und American Football. Ich programmmiere gerade mit einem Freund an einer Website.
+Hallo ich bin Rafael, 14 Jahre alt. Ich bin eine Hobbywebentwickler und liebe Code. Ich programmiere gerade mit HTML, CSS, JavaScript und ein bisschen Python. Meine anderen Hobbys sind Tischtennis und American Football. Ich programmmiere gerade mit einem Freund an einer Website.
 
 ## Verknüpfen Sie sich mit mir
 

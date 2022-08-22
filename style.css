@@ -1,10 +1,10 @@
-@import url('https://thumbs.gfycat.com/BoringGraveAmericanbobtail-max-1mb.gif');
+@import url('');
 
 
 
 body {
     background-color: chocolate;
-    background-image: url(https://scr.wfcdn.de/19607/Windows-Light-Wallpaper-1542273506-0-0.jpg);
+    background-image: url(https://images.unsplash.com/photo-1554034483-04fda0d3507b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTR8fHxlbnwwfHx8fA%3D%3D&w=1000&q=80);
     background-position: center;
     background-size: cover;
 }
@@ -16,9 +16,22 @@ body {
     font-family: fantasy;
 }
 
-#h1 {
+#div1 {
     color: black;
-    text-align: left;
+    text-align: center;
+    font-size: x-large;
+    font-family: fantasy;
+}
+
+#div2 {
+    color: black;
+    text-align: center;
     font-size: larger;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: serif;
+}
+
+#div3 {
+    color: black;
+    text-align: center;font-size: x-large;
+    font-family: fantasy;
 }

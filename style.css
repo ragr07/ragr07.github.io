@@ -35,3 +35,37 @@ body {
     text-align: center;font-size: x-large;
     font-family: fantasy;
 }
+
+#div4 {
+    color: black;
+    text-align: center;
+    font-size: x-large;
+    font-family: fantasy;
+}
+
+#div5 {
+    color: black;
+    text-align: center;
+    font-size: larger;
+    font-family: serif;
+}
+
+#div6 {
+    text-align: center;
+}
+
+#Main:hover {
+    text-decoration: underline;
+}
+
+#div1:hover {
+    text-decoration: underline;
+}
+
+#div3:hover {
+    text-decoration: underline;
+}
+
+#div4:hover {
+    text-decoration: underline;
+}
